@@ -1,0 +1,17 @@
+C:\Users\Nadm\source\repos\L1_2Sem\333\bin\Debug\net6.0\333.exe
+C:\Users\Nadm\source\repos\L1_2Sem\333\bin\Debug\net6.0\333.deps.json
+C:\Users\Nadm\source\repos\L1_2Sem\333\bin\Debug\net6.0\333.runtimeconfig.json
+C:\Users\Nadm\source\repos\L1_2Sem\333\bin\Debug\net6.0\333.dll
+C:\Users\Nadm\source\repos\L1_2Sem\333\bin\Debug\net6.0\333.pdb
+C:\Users\Nadm\source\repos\L1_2Sem\333\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Nadm\source\repos\L1_2Sem\333\obj\Debug\net6.0\333.csproj.AssemblyReference.cache
+C:\Users\Nadm\source\repos\L1_2Sem\333\obj\Debug\net6.0\333.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nadm\source\repos\L1_2Sem\333\obj\Debug\net6.0\333.AssemblyInfoInputs.cache
+C:\Users\Nadm\source\repos\L1_2Sem\333\obj\Debug\net6.0\333.AssemblyInfo.cs
+C:\Users\Nadm\source\repos\L1_2Sem\333\obj\Debug\net6.0\333.csproj.CoreCompileInputs.cache
+C:\Users\Nadm\source\repos\L1_2Sem\333\obj\Debug\net6.0\333.csproj.CopyComplete
+C:\Users\Nadm\source\repos\L1_2Sem\333\obj\Debug\net6.0\333.dll
+C:\Users\Nadm\source\repos\L1_2Sem\333\obj\Debug\net6.0\refint\333.dll
+C:\Users\Nadm\source\repos\L1_2Sem\333\obj\Debug\net6.0\333.pdb
+C:\Users\Nadm\source\repos\L1_2Sem\333\obj\Debug\net6.0\333.genruntimeconfig.cache
+C:\Users\Nadm\source\repos\L1_2Sem\333\obj\Debug\net6.0\ref\333.dll

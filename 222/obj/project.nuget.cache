@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "64h5typkvMFCfMDaTBcppY9cyIz3/SUE3phxAUzxRNdETr4QwYXvbParR7ePrVOefwXAGAJNeuOaIKnGqUvreQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nadm\\source\\repos\\L1_2Sem\\222\\222.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nadm\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

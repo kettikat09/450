@@ -1,0 +1,17 @@
+C:\Users\Nadm\source\repos\L1_2Sem\222\bin\Debug\net6.0\222.exe
+C:\Users\Nadm\source\repos\L1_2Sem\222\bin\Debug\net6.0\222.deps.json
+C:\Users\Nadm\source\repos\L1_2Sem\222\bin\Debug\net6.0\222.runtimeconfig.json
+C:\Users\Nadm\source\repos\L1_2Sem\222\bin\Debug\net6.0\222.dll
+C:\Users\Nadm\source\repos\L1_2Sem\222\bin\Debug\net6.0\222.pdb
+C:\Users\Nadm\source\repos\L1_2Sem\222\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Nadm\source\repos\L1_2Sem\222\obj\Debug\net6.0\222.csproj.AssemblyReference.cache
+C:\Users\Nadm\source\repos\L1_2Sem\222\obj\Debug\net6.0\222.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nadm\source\repos\L1_2Sem\222\obj\Debug\net6.0\222.AssemblyInfoInputs.cache
+C:\Users\Nadm\source\repos\L1_2Sem\222\obj\Debug\net6.0\222.AssemblyInfo.cs
+C:\Users\Nadm\source\repos\L1_2Sem\222\obj\Debug\net6.0\222.csproj.CoreCompileInputs.cache
+C:\Users\Nadm\source\repos\L1_2Sem\222\obj\Debug\net6.0\222.csproj.CopyComplete
+C:\Users\Nadm\source\repos\L1_2Sem\222\obj\Debug\net6.0\222.dll
+C:\Users\Nadm\source\repos\L1_2Sem\222\obj\Debug\net6.0\refint\222.dll
+C:\Users\Nadm\source\repos\L1_2Sem\222\obj\Debug\net6.0\222.pdb
+C:\Users\Nadm\source\repos\L1_2Sem\222\obj\Debug\net6.0\222.genruntimeconfig.cache
+C:\Users\Nadm\source\repos\L1_2Sem\222\obj\Debug\net6.0\ref\222.dll
